@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCourse</string>
+    <string name="btnAdd">Add Contact</string>
+</resources>
